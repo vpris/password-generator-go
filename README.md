@@ -1,4 +1,4 @@
-# randomizer-go
+# password-generator-go
 
 ### For example: 
 ### go buld passgen.go
